@@ -1,0 +1,11 @@
+C:\Users\Марсель.DESKTOP-TLBHCH6\source\repos\IncomeOutcome\IncomeOutcome\bin\Debug\IncomeOutcome.exe.config
+C:\Users\Марсель.DESKTOP-TLBHCH6\source\repos\IncomeOutcome\IncomeOutcome\bin\Debug\IncomeOutcome.exe
+C:\Users\Марсель.DESKTOP-TLBHCH6\source\repos\IncomeOutcome\IncomeOutcome\bin\Debug\IncomeOutcome.pdb
+C:\Users\Марсель.DESKTOP-TLBHCH6\source\repos\IncomeOutcome\IncomeOutcome\obj\Debug\IncomeOutcome.csprojAssemblyReference.cache
+C:\Users\Марсель.DESKTOP-TLBHCH6\source\repos\IncomeOutcome\IncomeOutcome\obj\Debug\IncomeOutcome.Form1.resources
+C:\Users\Марсель.DESKTOP-TLBHCH6\source\repos\IncomeOutcome\IncomeOutcome\obj\Debug\IncomeOutcome.Properties.Resources.resources
+C:\Users\Марсель.DESKTOP-TLBHCH6\source\repos\IncomeOutcome\IncomeOutcome\obj\Debug\IncomeOutcome.csproj.GenerateResource.cache
+C:\Users\Марсель.DESKTOP-TLBHCH6\source\repos\IncomeOutcome\IncomeOutcome\obj\Debug\IncomeOutcome.csproj.CoreCompileInputs.cache
+C:\Users\Марсель.DESKTOP-TLBHCH6\source\repos\IncomeOutcome\IncomeOutcome\obj\Debug\IncomeOutcome.exe
+C:\Users\Марсель.DESKTOP-TLBHCH6\source\repos\IncomeOutcome\IncomeOutcome\obj\Debug\IncomeOutcome.pdb
+C:\Users\Марсель.DESKTOP-TLBHCH6\source\repos\IncomeOutcome\IncomeOutcome\obj\Debug\IncomeOutcome.Form2.resources
